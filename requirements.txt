@@ -1,4 +1,4 @@
 fastapi
 uvicorn
-mcp-sdk
+git+https://github.com/modelcontextprotocol/mcp-sdk.git
 requests
